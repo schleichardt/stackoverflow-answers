@@ -1,4 +1,4 @@
-stackoverflow-answers
-=====================
+This is your new Play 2.1 application
+=====================================
 
-Please look into the branches.
+This file will be packaged with your application, when using `play dist`.

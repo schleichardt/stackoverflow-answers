@@ -1,4 +1,2 @@
-This is your new Play 2.1 application
-=====================================
 
-This file will be packaged with your application, when using `play dist`.
+http://stackoverflow.com/questions/12879547/playframework-2-websockets-and-session/12880311

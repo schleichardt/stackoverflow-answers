@@ -11,7 +11,8 @@ object ApplicationBuild extends Build {
     // Add your project dependencies here,
     javaCore,
     javaJdbc,
-    javaEbean
+    javaEbean,
+    "org.seleniumhq.selenium" % "selenium-java" % "2.35.0"
   )
 
   val main = play.Project(appName, appVersion, appDependencies).settings(

@@ -1,7 +1,19 @@
 @(message: String)
 
 @main("Welcome to Play 2.1") {
-    
-    @play20.welcome(message, style = "Java")
+
+    <div id=output>
+
+    </div>
+    <script>
+        var wsUri = "ws://localhost:@(if(play.Play.isTest) "3333" else "9000")/chat";
+        var websocket = new WebSocket(wsUri);
+        websocket.onmessage = function(evt) {
+            var element = document.createElement("p");
+            element.setAttribute("class", "ws-output")
+            element.innerHTML = evt.data;
+            document.getElementById("output").appendChild(element);
+        };
+    </script>
     
 }

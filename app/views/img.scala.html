@@ -1,0 +1,8 @@
+@(path: String, width: Int, height: Int, alt: String = "")
+
+@import play.api.Play.resource
+@import play.api.Play.current
+
+@if(resource("public/" + path).isDefined) {
+    <img src="@routes.Assets.at(path)" width="@width" height="@height" alt="@alt"/>
+}

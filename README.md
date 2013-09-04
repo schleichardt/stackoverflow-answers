@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/18605473/check-if-image-exists-with-image-src-routes-assets-atpublic-images-logo

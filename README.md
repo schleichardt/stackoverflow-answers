@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/18604777/play-framework-2-1-3-not-serving-gzip-assets

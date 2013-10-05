@@ -1,4 +1,1 @@
-stackoverflow-answers
-=====================
-
-Please look into the branches.
+answer to http://stackoverflow.com/questions/15290881/how-do-i-resolve-my-own-test-artifacts-in-sbt

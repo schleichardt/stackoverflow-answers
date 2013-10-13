@@ -1,4 +1,1 @@
-stackoverflow-answers
-=====================
-
-Please look into the branches.
+answer to http://stackoverflow.com/questions/18911236/play-framework-2-2-java-iteratee-reactive-upload

@@ -1,4 +1,1 @@
-stackoverflow-answers
-=====================
-
-Please look into the branches.
+answer to http://stackoverflow.com/questions/19400819/sbt-and-scct-module-not-found-reaktorsbt-scct0-2-snapshot

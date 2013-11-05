@@ -1,0 +1,1 @@
+answer for http://stackoverflow.com/questions/19789638/integrating-scala-code-coverage-tool-jacoco-into-a-play-2-2-x-project
